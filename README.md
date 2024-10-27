@@ -6,7 +6,9 @@ Based on movies' decsription, crew and cast, this recommends top 6 movies that m
 
 The concepts used are -
 
-Cosine similarity
-Count Vectors
-Porter Stemmer
-Stop words
+1. Cosine similarity
+2. Count Vectors
+3. Porter Stemmer
+4. Stop words
+
+Finally deployed on the render ([url](https://movies-recommend-rij.onrender.com/))
